@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "226695951420",
+    "project_id": "silasandcoltd-aef98",
+    "storage_bucket": "silasandcoltd-aef98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226695951420:android:c6cfea2622314622547f39",
+        "android_client_info": {
+          "package_name": "com.silasandcoltd.iamp2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226695951420-0kovg2tdr75thmjqcg1gj46bbr21ev2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-q8Wkc-m8mK9-I8w8x-aCfckoN6wLo1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226695951420-0kovg2tdr75thmjqcg1gj46bbr21ev2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

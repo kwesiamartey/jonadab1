@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/signInFragment">
+
+    <fragment
+        android:id="@+id/signInFragment"
+        android:name="com.silasandcoltd.iamp2021.SignInFragment"
+        android:label="fragment_sign_in"
+        tools:layout="@layout/fragment_sign_in" />
+    <fragment
+        android:id="@+id/mainActivity"
+        android:name="com.silasandcoltd.iamp2021.MainActivity"
+        android:label="fragment_sign_up"
+        tools:layout="@layout/fragment_sign_up" />
+    <fragment
+        android:id="@+id/recyclerViewFragment"
+        android:name="com.silasandcoltd.iamp2021.RecyclerViewFragment"
+        android:label="fragment_recycler_view"
+        tools:layout="@layout/fragment_recycler_view" />
+    <fragment
+        android:id="@+id/fullDeatilActivity"
+        android:name="com.silasandcoltd.iamp2021.FullDeatilActivity"
+        android:label="activity_full_deatil"
+        tools:layout="@layout/activity_full_deatil" />
+    <fragment
+        android:id="@+id/signUpFragment"
+        android:name="com.silasandcoltd.iamp2021.SignUpFragment"
+        android:label="SignUpFragment" />
+
+</navigation>

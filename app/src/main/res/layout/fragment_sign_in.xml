@@ -46,7 +46,7 @@
             android:drawableLeft="@drawable/ic_baseline_security"
             android:drawablePadding="12dp"
             android:ems="10"
-            android:inputType="textPersonName"
+            android:inputType="textPassword"
             android:padding="12dp"
             android:hint="Enter Password"
             app:layout_constraintEnd_toEndOf="parent"
